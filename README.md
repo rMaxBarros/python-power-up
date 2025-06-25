@@ -1,5 +1,5 @@
 
-# Imersão Java
+# Imersão Python
 
 Em cada aula pude aprender e desenvolver novas habilidades em Python.
 Cada um dos códigos contém muitos comentários que realizei durante os estudos pois o intuito é ter uma base fácil de pesquisa para projetos futuros.
